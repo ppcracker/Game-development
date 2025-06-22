@@ -1,0 +1,23 @@
+# Unreal Engine typical .gitignore
+
+# Build & intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+.vscode/
+*.xcodeproj
+*.xcworkspace
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Ignore local build config
+*.local
