@@ -31,5 +31,3 @@ This is a **First Person Shooter game** developed in **Unreal Engine C++**, whic
 
 ---
 
-## 📁 Folder Structure
-
