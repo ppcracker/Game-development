@@ -31,3 +31,15 @@ This is a **First Person Shooter game** developed in **Unreal Engine C++**, whic
 
 ---
 
+
+## 📜 Copyright & License
+
+© 2025 Deepika Yadav. All Rights Reserved.
+
+This project and its source code are intended for personal or educational use only.
+Unauthorized commercial use, redistribution, or modification without written permission is prohibited.
+
+For permission requests or inquiries, please contact:
+deepika3010yadav@gmail.com
+
+
